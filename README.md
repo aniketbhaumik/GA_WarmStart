@@ -25,7 +25,7 @@ Running the Notebook
 Clone the repository:
 
 
-git clone https://github.com/your-username/warm-start-ga.git
+git clone https://github.com/aniketbhaumik/warm-start-ga.git
 cd warm-start-ga
 Open the Jupyter Notebook:
 
